@@ -2,7 +2,11 @@
 
 A sleek, interactive web-based implementation of the classic Rock Paper Scissors game using HTML, CSS, and JavaScript.
 
-![Game Screenshot](https://raw.githubusercontent.com/yourusername/rock-paper-scissors/main/screenshot.png)
+![Alt text](/screenshots/Capture.PNG)
+![Alt text](/screenshots/Capture2.PNG)
+![Alt text](/screenshots/Capture3.PNG)
+
+
 
 ## Table of Contents
 
@@ -26,7 +30,8 @@ A sleek, interactive web-based implementation of the classic Rock Paper Scissors
 
 ## Demo
 
-[Add a link to your live demo here, if available]
+[![Video Title](/Demo/Demo.mp4)
+
 
 ## Installation
 
@@ -100,5 +105,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ---
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by Saket
 
