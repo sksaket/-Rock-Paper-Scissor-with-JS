@@ -30,7 +30,8 @@ A sleek, interactive web-based implementation of the classic Rock Paper Scissors
 
 ## Demo
 
-[![Video Title](/Demo/Demo.mp4)
+[Click here to watch the video 🎬 ](/Demo/Demo.mp4)
+
 
 
 ## Installation
